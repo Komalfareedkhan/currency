@@ -22,3 +22,4 @@ Singapore_Dollar,SGD,132,133.5
 Swedish_Korona,SEK,18.75,19
 Swiss_Franc,CHF,160.35,161.25
 Thai_Bhat,THB,4.8,4.9
+we are in the session
